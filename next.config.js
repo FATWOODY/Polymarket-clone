@@ -3,7 +3,7 @@ module.exports = {
   swcMinify: false,
   experimental: {
     esmExternals: false
-  }
+  },
   images: {
     domains: ["ipfs.infura.io"],
   },
